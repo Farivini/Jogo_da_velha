@@ -1,2 +1,2 @@
-# Jogo_da_velha
-Praticando Java
+
+# Praticando Java e logica com jogo da velha
